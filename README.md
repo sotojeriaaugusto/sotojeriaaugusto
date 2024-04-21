@@ -2,7 +2,7 @@
   
 
 <div align="right">
-<img src="https://raw.githubusercontent.com/sotojeriaaugusto/sotojeriaaugusto/main/augusto-octocat.png?token=GHSAT0AAAAAACQ2QKWYRWD7MP6PDPWBMTOUZRFMPRQ" align="right" height="200px" width="200px" />
+<img src="./augusto-octocat.png" align="right" height="200px" width="200px" />
 </div>  
   
 
@@ -43,10 +43,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
-</td></tr></table>  
-
 <br/>  
 
 
@@ -57,7 +53,6 @@
 </a>  
 </div>  
   
-
 <br/>  
 
 
