@@ -41,13 +41,7 @@
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6lvNLD1XRU5paMwWH0RGRI?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>  
-
-<br/>  
+<br/>   
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31id5yoohmmnrdh647khe7b5jbri&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" /></div>  
 
