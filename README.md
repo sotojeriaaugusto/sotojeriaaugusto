@@ -45,7 +45,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sotojeriaaugusto&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6lvNLD1XRU5paMwWH0RGRI?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>  
 
 <br/>  
 
