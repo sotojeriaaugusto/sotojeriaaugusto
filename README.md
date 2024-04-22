@@ -8,7 +8,7 @@
 
 👋 Name's Augusto, I'm a passionate Full Stack student with a keen interest in game reverse engineering and virtual world photography.
 
-🎮 I love delving into the intricacies of game mechanics and uncovering the secrets behind them. Love exploring hidden features. Still a rookie tho.
+🎮 I enjoy delving into the intricacies of game mechanics and uncovering the secrets behind them. Love exploring hidden features. Still a rookie tho.
 
 📸 Using custom camera tools developed using various frameworks, i embark on photographic journeys through virtual landscapes. Capturing the essence and beauty of digital worlds.
 
