@@ -2,7 +2,7 @@
   
 
 <div align="right">
-<img src="https://raw.githubusercontent.com/sotojeriaaugusto/sotojeriaaugusto/main/augusto-octocat.png?token=GHSAT0AAAAAACQ2QKWYRWD7MP6PDPWBMTOUZRFMPRQ" align="right" height="200px" width="200px" />
+<img src="./greetings-avatar" align="right" height="200px" width="200px" />
 </div>  
   
 
