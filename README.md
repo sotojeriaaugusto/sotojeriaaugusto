@@ -2,7 +2,7 @@
   
 
 <div align="right">
-<img src="./greetings-avatar01a.png" align="right" height="200px" width="200px" />
+<img src="./greetings-avatar-01a.png" align="right" height="200px" width="200px" />
 </div>  
   
 
