@@ -40,7 +40,7 @@
 
 <br/>  
 
-  
+ <img src="https://raw.githubusercontent.com/sotojeriaaugusto/sotojeriaaugusto/output/snake.svg" alt="Snake animation" /> 
 
 <br/>  
 
