@@ -44,14 +44,6 @@
 
 <br/>  
 
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31id5yoohmmnrdh647khe7b5jbri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=2d4e9a&bar_color_cover=false" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sotojeriaaugusto&&style=flat-square" align="center" />
 </div>  
