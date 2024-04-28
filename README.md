@@ -1,10 +1,4 @@
 ### 💻 Hi fellas!  
-  
-
-<div align="right">
-<img src="https://raw.githubusercontent.com/sotojeriaaugusto/sotojeriaaugusto/main/greetings-avatar-01a.png" align="right" height="350" width="350" />
-</div>  
-  
 
 👋 Name's Augusto, I'm a passionate Full Stack student with a keen interest in game reverse engineering and virtual world photography.
 
@@ -29,17 +23,6 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/sotojeriaaugusto" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
  <img src="https://raw.githubusercontent.com/sotojeriaaugusto/sotojeriaaugusto/main/snake.svg" alt="Snake animation" /> 
 
 <br/>  
@@ -48,9 +31,5 @@
 <img src="https://komarev.com/ghpvc/?username=sotojeriaaugusto&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
-
-<div align="center"></div>
-<br />
 
