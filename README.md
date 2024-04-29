@@ -1,4 +1,4 @@
-### 💻 Hi fellas!  
+![project](https://github.com/sotojeriaaugusto/sotojeriaaugusto/assets/142535637/d9f866fe-a440-4a69-a575-3a0cf613add2)
 
 👋 Name's Augusto, I'm a passionate Full Stack student with a keen interest in game reverse engineering and virtual world photography.
 
