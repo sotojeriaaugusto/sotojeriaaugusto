@@ -1,5 +1,5 @@
 
-https://github.com/sotojeriaaugusto/sotojeriaaugusto/assets/142535637/5b4164c8-d731-407b-8d47-d9b720bdc609
+![sotojeriaaugusto](https://github.com/sotojeriaaugusto/sotojeriaaugusto/assets/142535637/09b6ab3a-d943-4397-9346-72d13868ce6a)
 
 👋 Name's Augusto, I'm a passionate Full Stack student with a keen interest in game reverse engineering and virtual world photography.
 
