@@ -1,4 +1,5 @@
-![project](https://github.com/sotojeriaaugusto/sotojeriaaugusto/assets/142535637/d9f866fe-a440-4a69-a575-3a0cf613add2)
+
+https://github.com/sotojeriaaugusto/sotojeriaaugusto/assets/142535637/5b4164c8-d731-407b-8d47-d9b720bdc609
 
 👋 Name's Augusto, I'm a passionate Full Stack student with a keen interest in game reverse engineering and virtual world photography.
 
