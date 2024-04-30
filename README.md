@@ -1,5 +1,6 @@
 
-![sotojeriaaugusto](https://github.com/sotojeriaaugusto/sotojeriaaugusto/assets/142535637/09b6ab3a-d943-4397-9346-72d13868ce6a)
+![3oi2394329043284](https://github.com/sotojeriaaugusto/sotojeriaaugusto/assets/142535637/ea6f75f5-d7bc-4aad-a633-ad82b0fd70ca)
+
 
 👋 Name's Augusto, I'm a passionate Full Stack student with a keen interest in game reverse engineering and virtual world photography.
 
