@@ -1,6 +1,4 @@
-
-![3oi2394329043284](https://github.com/sotojeriaaugusto/sotojeriaaugusto/assets/142535637/ea6f75f5-d7bc-4aad-a633-ad82b0fd70ca)
-
+[![ctr](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=How+it's+going!+Name's+Augusto+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 👋 Name's Augusto, I'm a passionate Full Stack student with a keen interest in game reverse engineering and virtual world photography.
 
