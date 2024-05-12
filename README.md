@@ -1,14 +1,12 @@
 [![ctr](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=How+it's+going!+Name's+Augusto+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-👋 Name's Augusto, I'm a passionate Full Stack student with a keen interest in game reverse engineering and virtual world photography.
+👋 I'm a passionate Full Stack student with a keen interest in game reverse engineering and virtual world photography.
 
 🎮 I enjoy delving into the intricacies of game mechanics and uncovering the secrets behind them. Love exploring hidden features. Still a rookie tho.
-
-📸 Using custom camera tools developed using various frameworks, i embark on photographic journeys through virtual landscapes. Capturing the essence and beauty of digital worlds.
+    📸 Using custom camera tools developed using various frameworks, i embark on photographic journeys through virtual landscapes. Capturing the essence and beauty of digital worlds.
 
 🛠️ Just started a new journey, I'm trying to be a Full stack dev!  
   
-
 <br/>  
 
 
@@ -26,10 +24,6 @@
  <img src="https://raw.githubusercontent.com/sotojeriaaugusto/sotojeriaaugusto/main/snake.svg" alt="Snake animation" /> 
 
 <br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sotojeriaaugusto&&style=flat-square" align="center" />
 </div>  
-  
-<br/>  
-
